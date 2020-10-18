@@ -4,6 +4,10 @@
 
 Given: number, your task is to implement function that reverse digits of this number.
 
+
+Дано: число, ваша задача - реализовать функцию, которая меняет местами цифры этого числа
+
+
 For example:
 ```js
 reverse(123); // 321
